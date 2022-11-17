@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+    <Ad>
+        <ImageUrl>../Advertisements/R1Ad3.gif</ImageUrl>
+        <NavigateUrl>http://www.Magix.in</NavigateUrl>
+        <AlternateText>Advertise Here  - +91 9950445704</AlternateText>
+        <Keyword>AdvertiseHere</Keyword>
+        <Impressions>10</Impressions>
+    </Ad>
+</Advertisements>
